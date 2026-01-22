@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**krystian4343/krystian4343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer with a diverse skill set spanning game scripting, web development, and digital content creation. My journey has taken me through building game modifications, creating web applications, and developing comprehensive community management solutions.
 
-Here are some ideas to get you started:
+### 💻 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in creating practical solutions across multiple domains. My experience includes developing full-featured Discord bots with advanced community management capabilities, building web applications, and scripting for game environments. I also work with 3D modeling in Blender and video editing to bring creative projects to life.
+
+### 🛠️ Tech Stack
+
+**Languages:**
+- JavaScript / TypeScript
+- Lua
+- HTML & CSS
+
+**Frameworks & Tools:**
+- React
+- Node.js
+- Discord.js
+- Blender (3D Modeling)
+- Video Editing Software
+
+### 🎮 Interests
+
+Game development is my primary passion. Whether it's reverse engineering game mechanics, creating custom scripts, or building tools that enhance gaming experiences, I'm drawn to projects that intersect with interactive entertainment.
+
+### 🌱 Currently
+
+Expanding my knowledge across various technologies and continuously improving my development skills. Always exploring new tools and techniques to enhance my craft.
+
+### 📫 Let's Connect
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on interesting projects!
